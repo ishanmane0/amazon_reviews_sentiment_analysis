@@ -9,3 +9,6 @@ Sentiment analysis is the task of determining the sentiment (positive, negative,
 RoBERTa: RoBERTa (Robustly optimized BERT approach) is a transformer-based language model trained on large-scale corpora. We fine-tune RoBERTa for sentiment analysis of Amazon reviews.
 
 VADER: VADER is a lexicon and rule-based sentiment analysis tool specifically designed for analyzing social media text. It provides a quick and simple way to assess the sentiment of text based on a set of predefined rules.
+
+#Dataset
+you can find the dataset on kaggle it was too large to be uploaded on github
